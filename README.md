@@ -1,1 +1,1 @@
-# mcdns-studentname-cloud
+Welcome to cloud computing training
